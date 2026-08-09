@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[XY Sense](https://xysense.com/)**  
-  Workplace sensor platform delivering accurate occupancy and utilization analytics across open-plan offices and meeting spaces.
-
-- **[Butlr](https://www.butlr.com/)**  
-  Privacy-first thermal (body-heat) sensing platform that provides occupancy, dwell time, and space utilization data without cameras or personally identifiable information.
-
-- **[Locatee](https://www.locatee.com/)**  
-  Workplace analytics solution focused on desk and space utilization insights derived from existing IT and building data sources.
-
-- **[VergeSense](https://www.vergesense.com/)**  
-  AI-powered spatial intelligence platform using computer vision sensors to deliver granular occupancy data and predictive workplace planning.
-
-- **[Robin Analytics / Robin](https://robinpowered.com/)**  
-  Desk and room booking platform with analytics that reveal utilization patterns and support hybrid workplace operations.
-
-- **[OfficeSpace Insights](https://www.officespacesoftware.com/)**  
-  Space management and utilization analytics tools designed for enterprise real estate and facilities teams.
-
-- **[GoBright Analytics](https://gobright.com/)**  
-  Smart workplace platform offering room and desk booking together with utilization reporting and analytics.
-
-- **[Density](https://www.density.io/)**  
-  Occupancy sensor and analytics platform providing real-time and historical people-counting data for space optimization.
-
-- **[Occuspace](https://www.occuspace.io/)**  
-  Occupancy monitoring solution focused on real-time space utilization insights for offices and public environments.
-
-- **[PointGrab](https://www.pointgrab.com/)**  
-  AI-based workplace sensing and analytics platform that measures occupancy and activity for smarter space management.
+| Product | Description | Pricing | Free Tier Limit |
+|---|---|---|---|
+| **[XY Sense](https://xysense.com/)** | Workplace sensor platform delivering accurate occupancy and utilization analytics across open-plan offices and meeting spaces. | ~$0.05 per sq. ft. per month | 0 days (Demo only) |
+| **[Butlr](https://www.butlr.com/)** | Privacy-first thermal (body-heat) sensing platform that provides occupancy, dwell time, and space utilization data without cameras or personally identifiable information. | ~$295 for starter kits | 0 days (Demo only) |
+| **[Locatee](https://www.locatee.com/)** | Workplace analytics solution focused on desk and space utilization insights derived from existing IT and building data sources. | ~$15,000 annually | 0 days (Demo only) |
+| **[VergeSense](https://www.vergesense.com/)** | AI-powered spatial intelligence platform using computer vision sensors to deliver granular occupancy data and predictive workplace planning. | ~$1,800 per sensor | 0 days (Demo only) |
+| **[Robin Analytics / Robin](https://robinpowered.com/)** | Desk and room booking platform with analytics that reveal utilization patterns and support hybrid workplace operations. | ~$15,000 annually | 14-day free trial |
+| **[OfficeSpace Insights](https://www.officespacesoftware.com/)** | Space management and utilization analytics tools designed for enterprise real estate and facilities teams. | ~$22,000 annually | 0 days (Demo only) |
+| **[GoBright Analytics](https://gobright.com/)** | Smart workplace platform offering room and desk booking together with utilization reporting and analytics. | ~£2.30 per license/month | 30-day free trial |
+| **[Density](https://www.density.io/)** | Occupancy sensor and analytics platform providing real-time and historical people-counting data for space optimization. | ~$1,800 per sensor | 0 days (Demo only) |
+| **[Occuspace](https://www.occuspace.io/)** | Occupancy monitoring solution focused on real-time space utilization insights for offices and public environments. | ~$600 per year | 0 days (Demo only) |
+| **[PointGrab](https://www.pointgrab.com/)** | AI-based workplace sensing and analytics platform that measures occupancy and activity for smarter space management. | ~$1,000 per sensor | 0 days (Demo only) |
 
 ## Open-Source GitHub Projects
 
