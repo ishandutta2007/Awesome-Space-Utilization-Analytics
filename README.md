@@ -1,6 +1,6 @@
 # Awesome-Space-Utilization-Analytics
 
-# Top Space Utilization Analytics Platforms Ecosystem
+## Top Space Utilization Analytics Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Workplace Occupancy Analytics, Desk & Room Utilization, Sensor-Based Space Intelligence & Real Estate Optimization*  
